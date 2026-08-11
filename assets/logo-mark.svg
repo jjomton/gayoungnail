@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">Gayoung Local Tip concept mark</title>
+  <desc id="desc">A plum blossom and nail-tip inspired geometric mark</desc>
+  <rect width="96" height="96" rx="28" fill="#F7F1E7"/>
+  <g transform="translate(48 48)">
+    <path d="M0-31C11-31 16-22 12-12C23-18 33-11 31 0C29 11 19 14 10 8C15 20 8 29-2 29C-13 29-17 20-12 10C-24 15-33 8-31-3C-29-14-18-17-9-11C-15-23-10-31 0-31Z" fill="#D98C98"/>
+    <circle r="10" fill="#B84939"/>
+    <path d="M0-25V25M-24 0H24M-17-17L17 17M17-17L-17 17" stroke="#F4D39A" stroke-width="2" opacity=".8"/>
+    <path d="M0-8C6-8 9-4 9 2C9 11 5 18 0 23C-5 18-9 11-9 2C-9-4-6-8 0-8Z" fill="#2E716D"/>
+  </g>
+</svg>
